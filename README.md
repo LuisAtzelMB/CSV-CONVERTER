@@ -1,7 +1,7 @@
 Prueba la pagina: https://csvconverter.vercel.app/
 # 🚀 CSV Converter - WordPress to Moodle
 
-![Banner](https://placehold.co/1200x400/3b82f6/white?text=CSV+Converter) <!-- Reemplaza con tu imagen -->
+![Banner](https://placehold.co/1200x400/3b82f6/white?text=CSV+Converter) 
 
 Una herramienta sencilla para convertir usuarios de WordPress a formato Moodle.
 
